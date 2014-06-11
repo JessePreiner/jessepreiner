@@ -1,4 +1,2 @@
 jessepreiner
 ============
-
-jesspreiner.com
