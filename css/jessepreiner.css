@@ -1,0 +1,32 @@
+﻿body { 
+    font-family: 'Ubuntu Condensed', sans-serif;
+    top: 20px;
+    background: url(/img/noisy_net.png) repeat fixed;
+    
+}
+body p {
+    line-height: 1.1em; 
+}
+
+div h1 {
+    background-color: rgba(240,240,240, 0.1);
+    padding: 2px;
+    border-radius: 5px;
+
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: 600;
+    font-family: inherit;
+    color: #2285a2;
+}
+
+nav button {
+    background-color: rgba(25, 42, 90, 0.50);
+    color: rgb(52, 104, 104);
+    font-family: inherit;
+    padding: 10px;
+    margin: 0 10px;
+}
+
