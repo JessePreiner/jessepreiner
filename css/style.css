@@ -11,7 +11,7 @@ body {
 body {
     color: #FFF;
     font-family: 'Ubuntu Condensed', sans-serif;
-    background: url(/img/noisy_net.png) repeat fixed;
+    background: url(../img/noisy_net.png) repeat fixed;
 }
 h1,
 h2,
