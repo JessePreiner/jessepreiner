@@ -5,14 +5,11 @@ For the mockups, i'm really digging the ones going down the left side. As far as
 I started to play around with foundations a bit, and did some reading. Now i'm getting a desire to play dota, so thats the way she goes.
 
 
-jordan
-============
-Added an assets folder, toss the inventory in there.
-
-
-
-Content Inventory
+To Do
 =================
-1. Large background image for homepage
-2. Write up for about me section, brief description of your goals / mission and your background.
-3. Little blurb for the contact section, h1 and h2
+1. Fill in content **important**
+2. Grid up the site
+3. Make sections full height
+4. Large background image for home section
+5. Color scheme
+6. Typography
