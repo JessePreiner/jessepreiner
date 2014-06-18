@@ -7,9 +7,9 @@ I started to play around with foundations a bit, and did some reading. Now i'm g
 
 To Do
 =================
-1. Fill in content **important**
+1. **Fill in content** -important
 2. Grid up the site
 3. Make sections full height
-4. Large background image for home section
+4. need new large background image for home section
 5. Color scheme
 6. Typography
