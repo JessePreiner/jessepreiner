@@ -1,0 +1,51 @@
+/* Basics */
+html, 
+body { 
+    width: 100%;
+    height: 100%;
+}
+.clearfix {
+    clear: both;
+}
+/* Typography */
+body {
+    color: #FFF;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    background: url(/img/noisy_net.png) repeat fixed;
+}
+h1,
+h2,
+h3 {
+    color: tomato;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+h1 { font-size: 4em; }
+h2 { font-size: 3em; }
+h3 { font-size: 2em; }
+a,
+a:visited { 
+    text-decoration: none; 
+    color: red;
+}
+a:hover,
+a:focus { 
+    color: green;
+}
+p {
+    font-size: 1.1em;
+    line-height: 1.5em;
+}
+/* Navigation */
+
+/* Home */
+div h1 {
+    background-color: rgba(240,240,240, 0.1);
+    padding: 2px;
+    border-radius: 5px;
+
+}
+/* About */
+
+/* Portfolio */
+
+/* Contact */
