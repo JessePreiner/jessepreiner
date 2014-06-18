@@ -11,7 +11,7 @@ body {
 body {
     color: #FFF;
     font-family: 'Ubuntu Condensed', sans-serif;
-    background: url(../img/noisy_net.png) repeat fixed;
+    background: url('../img/noisy_net.png') repeat fixed;
 }
 h1,
 h2,
@@ -29,7 +29,7 @@ a:visited {
 }
 a:hover,
 a:focus { 
-    color: green;
+    color: lightgreen;
 }
 p {
     font-size: 1.1em;
@@ -40,16 +40,12 @@ p {
 /* Home */
 #home {
     height: 100%;
+    background: url('../img/saskatoon.jpg');
+    background-size: cover;
 }
 #home-content {
-    top: 100px;
+    top: 250px;
     position: relative;
-}
-div h1 {
-    background-color: rgba(240,240,240, 0.1);
-    padding: 2px;
-    border-radius: 5px;
-
 }
 /* About */
 
