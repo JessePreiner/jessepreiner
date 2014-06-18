@@ -38,6 +38,13 @@ p {
 /* Navigation */
 
 /* Home */
+#home {
+    height: 100%;
+}
+#home-content {
+    top: 100px;
+    position: relative;
+}
 div h1 {
     background-color: rgba(240,240,240, 0.1);
     padding: 2px;
