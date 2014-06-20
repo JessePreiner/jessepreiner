@@ -12,4 +12,6 @@ To Do
 3. Make sections full height
 4. need new large background image for home section
 5. Color scheme
+  https://kuler.adobe.com/Kayak-color-theme-472760/
+  
 6. Typography
