@@ -27,11 +27,11 @@ h3 { font-size: 2em; }
 a,
 a:visited { 
     text-decoration: none; 
-    color: red;
+    color: #5D917D;
 }
 a:hover,
 a:focus { 
-    color: lightgreen;
+    color: #A8AD80;
 }
 p {
     font-size: 1.1em;
